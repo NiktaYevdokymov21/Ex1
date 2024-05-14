@@ -11,5 +11,8 @@ if start == '+':
     user_ball = 0
     rand_ball = 0
     while True:
-        user = input("Rock, Paper or Scissors")
+        user = input("Rock 'r', Paper 'p' or Scissors 's' ???")
         list_play = ["r", "p", "s"]
+        if user in list_play:
+            rand = random.choice(list_play)
+            print(rand)
