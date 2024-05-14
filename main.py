@@ -38,3 +38,7 @@ if start == '+':
             print("Thanks for the game, see ya later")
         else:
             print('input: "r", "p", "s"  ')
+if start == "-":
+    print('So sad, se ya later...')
+else:
+    print('i didn`t understand you. Please restart the game.')
