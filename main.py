@@ -10,3 +10,6 @@ if start == '+':
     print('Wanna know score? Press "?" ')
     user_ball = 0
     rand_ball = 0
+    while True:
+        user = input("Rock, Paper or Scissors")
+        list_play = ["r", "p", "s"]
