@@ -19,18 +19,24 @@ if start == '+':
 
             if rand == 'r' and user == 's':
                 rand_ball += 1
+                print('You loose')
             if rand == 's' and user == 'p':
                 rand_ball += 1
+                print('You loose')
             if rand == 'p' and user == 's':
                 rand_ball += 1
+                print('You loose')
             if rand == 'r' and user == 'p':
                 user_ball += 1
+                print('You win')
             if rand == 's' and user == 'r':
                 user_ball += 1
+                print('You win')
             if rand == 'p' and user == 's':
                 user_ball += 1
+                print('You win')
             if rand == user:
-                pass
+                print('Tie')
         elif user == "?":
             print(f'Your scores are {user_ball}. Scores of enemy are {rand_ball}.')
         elif user == "-":
