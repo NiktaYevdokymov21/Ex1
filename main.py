@@ -31,3 +31,10 @@ if start == '+':
                 user_ball += 1
             if rand == user:
                 pass
+        elif user == "?":
+            print(f'Your scores are {user_ball}. Scores of enemy are {rand_ball}.')
+        elif user == "-":
+            print(f'Your scores are {user_ball}. Scores of enemy are {rand_ball}.')
+            print("Thanks for the game, see ya later")
+        else:
+            print('input: "r", "p", "s"  ')
