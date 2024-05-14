@@ -16,3 +16,18 @@ if start == '+':
         if user in list_play:
             rand = random.choice(list_play)
             print(rand)
+
+            if rand == 'r' and user == 's':
+                rand_ball += 1
+            if rand == 's' and user == 'p':
+                rand_ball += 1
+            if rand == 'p' and user == 's':
+                rand_ball += 1
+            if rand == 'r' and user == 'p':
+                user_ball += 1
+            if rand == 's' and user == 'r':
+                user_ball += 1
+            if rand == 'p' and user == 's':
+                user_ball += 1
+            if rand == user
+                pass

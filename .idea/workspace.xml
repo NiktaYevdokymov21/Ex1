@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc8f005a-6cb1-4756-9eb3-77cb296f3e3a" name="Changes" comment="initial user_ball and rand_ball">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cc8f005a-6cb1-4756-9eb3-77cb296f3e3a" name="Changes" comment="initial random">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +103,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715710247537</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="initial r,p,s">
+      <option name="closed" value="true" />
+      <created>1715710409186</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715710409186</updated>
+    </task>
+    <task id="LOCAL-00006" summary="initial random">
+      <option name="closed" value="true" />
+      <created>1715710546551</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715710546551</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +138,8 @@
     <MESSAGE value="added start" />
     <MESSAGE value="Loading of the game" />
     <MESSAGE value="initial user_ball and rand_ball" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial user_ball and rand_ball" />
+    <MESSAGE value="initial r,p,s" />
+    <MESSAGE value="initial random" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial random" />
   </component>
 </project>
