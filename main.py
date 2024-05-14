@@ -23,7 +23,7 @@ if start == '+':
             if rand == 's' and user == 'p':
                 rand_ball += 1
                 print('You loose')
-            if rand == 'p' and user == 's':
+            if rand == 'p' and user == 'r':
                 rand_ball += 1
                 print('You loose')
             if rand == 'r' and user == 'p':
