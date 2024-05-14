@@ -29,5 +29,5 @@ if start == '+':
                 user_ball += 1
             if rand == 'p' and user == 's':
                 user_ball += 1
-            if rand == user
+            if rand == user:
                 pass
